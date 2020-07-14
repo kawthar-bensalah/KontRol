@@ -8,7 +8,7 @@ Parental control application based on social networks data.
 
 ## Description
 
-* Java swing Desktop application, serving as a generator of real-time reports about children’s activities on Twitter. It is intended for parents who wish to follow their children on the social network Twitter. The system introduces detection of suspicious profiles and send notifications to parents. 
+Java swing Desktop application, serving as a generator of real-time reports about children’s activities on Twitter. It is intended for parents who wish to follow their children on the social network Twitter. The system introduces detection of suspicious profiles and send notifications to parents. 
 
 Through this application you can :
 
