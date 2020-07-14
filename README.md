@@ -25,9 +25,7 @@ Includes all necessary Netbeans project files.
 
 ### Executing program
 
-* Eclipse IDE.
-
-* NetBeans IDE.
+The executable file of the application is in the directory: KontRol\dist\KontRol.jar
 
 ## Screenshots
 
