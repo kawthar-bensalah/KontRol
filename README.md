@@ -42,12 +42,9 @@ It includes all necessary Netbeans project files.
   
 ## Screenshots
 
-![alt text](https://raw.githubusercontent.com/kawthar-bensalah/KontRol/master/screen3.PNG)
-
-![alt text](https://raw.githubusercontent.com/kawthar-bensalah/KontRol/master/screen4.PNG)
-
-![alt text](https://raw.githubusercontent.com/kawthar-bensalah/KontRol/master/screen5.PNG)
-
+<p float="left">
+<img src="https://raw.githubusercontent.com/kawthar-bensalah/KontRol/master/screen3.PNG" width="310" /> <img src="https://raw.githubusercontent.com/kawthar-bensalah/KontRol/master/screen4.PNG" width="310" /> <img src="https://raw.githubusercontent.com/kawthar-bensalah/KontRol/master/screen5.PNG" width="310" />
+ </p>
 
 ## Authors
 
